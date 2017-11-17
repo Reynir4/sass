@@ -1,1 +1,2 @@
 # sass
+SCSS æfingaverkefni
